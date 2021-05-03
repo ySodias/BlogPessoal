@@ -1,0 +1,20 @@
+.fs-54{
+  font-size: 54pt;
+}
+.fs-18{
+  font-size: 18pt;
+}
+
+@media only screen and (max-height: 766px){
+  .img-column{
+    height: 500px;
+    width: 500px;
+  }
+}
+
+@media only screen and (min-height: 900px){
+  .img-column{
+    height: 800px;
+    width: 800px;
+  }
+}
