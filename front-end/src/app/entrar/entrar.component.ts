@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { connectableObservableDescriptor } from 'rxjs/internal/observable/ConnectableObservable';
 import { environment } from 'src/environments/environment.prod';
 import { UserLogin } from '../model/UserLogin';
 import { AuthService } from '../service/auth.service';
@@ -28,6 +27,7 @@ export class EntrarComponent implements OnInit {
       this.router.navigate(['/inicio'])
 
       environment.token = this.userLogin.token
+      environment.tipoUser = this.userLogin.tipo
       environment.nome = this.userLogin.nome
       environment.foto = this.userLogin.foto
       environment.id = this.userLogin.id
