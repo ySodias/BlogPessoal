@@ -1,0 +1,14 @@
+<div class="alert alert-{{type}} alert-dismissible fade show m-0" role="alert">
+  <div class="row">
+    <div class="col-md-2">
+        <img *ngIf="type=='danger'"class="img-fluid" src="https://i.imgur.com/v615PsO.png">
+        <img *ngIf="type=='success'"class="img-fluid" src="https://i.imgur.com/Xjhg1ny.png">
+        <img *ngIf="type=='info'"class="img-fluid" src="https://i.imgur.com/x4xjz1Z.png">
+    </div>
+    {{message}}
+  </div>
+
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close" (click)="onClose()">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
