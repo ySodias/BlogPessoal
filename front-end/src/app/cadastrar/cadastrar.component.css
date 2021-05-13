@@ -1,0 +1,17 @@
+#img-bg{
+  background-image: url('https://i.imgur.com/qgPWmlq.jpg');
+  min-height: 969px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media only screen and (max-height: 766px) {
+  .cadastrar{
+    margin-top: 50px;
+  }
+}
+@media only screen and (min-height: 900px) {
+  .cadastrar{
+    margin-top: 150px;
+  }
+}
+
