@@ -1,11 +1,11 @@
 # BlogPessoal
 
-##Decrição:
+## Decrição:
 Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 
 Link da Documentação: https://ysodias.github.io/dic-blogPessoal.v2/
 
-###Principais Tecnologias Utilizadas:
+### Principais Tecnologias Utilizadas:
 
 Linguagens de Programação:
 Java
@@ -20,4 +20,4 @@ Angular
 Banco de Dados:
 MySQL
 
-##Necessário para começar a usar:
+## Necessário para começar a usar:
