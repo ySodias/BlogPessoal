@@ -90,4 +90,4 @@ Banco de Dados:
 
 ## Patrocinador:
 
-<img src="https://i.imgur.com/uyuMf8t.png" alt="Logo Generation Brasil">
+<img src="https://i.imgur.com/uyuMf8t.png" alt="Logo Generation Brasil" width="300px" height="300px">
