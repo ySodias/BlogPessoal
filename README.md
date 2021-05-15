@@ -88,13 +88,14 @@ Banco de Dados:
 └───environments
 ```
 
-## Patrocinador:
+## Orientador:
 
+<br>
 <p align="center">
-          <img src="https://i.imgur.com/uyuMf8t.png" alt="Logo Generation Brasil" width="300px" height="200px"> 
+    <img src="https://i.imgur.com/uyuMf8t.png" alt="Logo Generation Brasil" width="300px" height="200px"> 
 </p>
  
 
-
+### Feito com ❤️ por Yuri Dias
 
 
