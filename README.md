@@ -87,3 +87,7 @@ Banco de Dados:
 ├───assets
 └───environments
 ```
+
+## Patrocinador:
+
+<img src="https://i.imgur.com/uyuMf8t.png" alt="Logo Generation Brasil">
