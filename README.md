@@ -26,7 +26,7 @@ Linguagens de Programação:
 
 Frameworks:
 <p>
-          <img src="https://i.imgur.com/LttMY4e.png" alt="logo Angular">
+          <img src="https://i.imgur.com/LttMY4e.png" alt="logo Angular" width="40px" height="40px">
           <h3>Angular</h3>
 </p>
 
