@@ -8,7 +8,7 @@ Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 * Link do projeto no Heroku: https://blogpessoal-yuri.herokuapp.com/#/entrar
 
 <hr>
-
+<br>
 ### Principais Tecnologias Utilizadas:
 <br>
 Linguagens de Programação:
@@ -25,7 +25,6 @@ Banco de Dados:
 * MySQL
 <br>
 <hr>
-
 ## Necessário para começar a usar:
 
 1. Clonar o repositório:
@@ -36,6 +35,7 @@ Banco de Dados:
 4. Por fim abrir a pasta do Front-end no terminal e usar o comando para subir o servido no Angular:
           ``` ng serve ```
 <br>
+
 ## Arquitetura de pastas no Back-end:
 ```shell
 
