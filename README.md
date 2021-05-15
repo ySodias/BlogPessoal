@@ -30,7 +30,24 @@ Frameworks:
           <h3>Angular</h3>
 </p>
 
+
 ![Angular](https://i.imgur.com/LttMY4e.png)
+
+# Title
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
+    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
+    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
+  </tr>
+ </table>
+
 
 Banco de Dados:
 * MySQL
