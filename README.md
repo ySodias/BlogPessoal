@@ -1,8 +1,8 @@
 
 
 <p align="block"> 
-BlogPessoal
-<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="30px" height="30px">
+
+<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="30px" height="30px">BlogPessoal
 </p>
 
 <hr>
