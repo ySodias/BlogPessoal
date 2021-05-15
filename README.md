@@ -30,6 +30,7 @@ Frameworks:
           <h3>Angular</h3>
 </p>
 
+![Angular](https://i.imgur.com/LttMY4e.png)
 
 Banco de Dados:
 * MySQL
