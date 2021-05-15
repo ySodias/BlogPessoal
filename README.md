@@ -25,8 +25,10 @@ Linguagens de Programação:
 
 
 Frameworks:
-* Spring
-* Angular
+<p>
+          <img src="https://i.imgur.com/LttMY4e.png" alt="logo Angular">
+          <h3>Angular</h3>
+</p>
 
 
 Banco de Dados:
