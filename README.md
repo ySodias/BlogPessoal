@@ -25,6 +25,7 @@ Banco de Dados:
 * MySQL
 <br>
 <hr>
+
 ## Necessário para começar a usar:
 
 1. Clonar o repositório:
@@ -36,7 +37,7 @@ Banco de Dados:
           ``` ng serve ```
 <br>
 
-## Arquitetura de pastas no Back-end:
+### Arquitetura de pastas no Back-end:
 ```shell
 
   $tree
@@ -56,7 +57,7 @@ Banco de Dados:
     ├───static
     └───templates
 ```
-## Arquitetura de pastas no Front-end:
+### Arquitetura de pastas no Front-end:
 ```shell
 
   $tree
