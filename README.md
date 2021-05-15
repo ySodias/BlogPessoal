@@ -9,8 +9,10 @@ Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 
 <hr>
 <br>
+
 ### Principais Tecnologias Utilizadas:
 <br>
+
 Linguagens de Programação:
 * Java
 * Typescript
