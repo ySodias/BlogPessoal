@@ -20,6 +20,7 @@ Angular
 Banco de Dados:
 MySQL
 <hr>
+
 ## Necessário para começar a usar:
 
 1. Clonar o repositório:
@@ -27,6 +28,8 @@ MySQL
 2. Abrir a pasta do repositório e usar o comando: 
           ``` npm install ```
 3. Depois é necessário alterar a pasta ir a pasta resources e no arquivo aplication.properties e alterar os dados para o login em seu banco de dados
+4. Por fim abrir a pasta do Front-end no terminal e usar o comando para subir o servido no Angular:
+          ``` ng serve ```
 
 
 ## Arquitetura de pastas no Back-end:
