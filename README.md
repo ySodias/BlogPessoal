@@ -2,7 +2,7 @@
 
 <p align="block"> 
 <h1>BlogPessoal</h1>
-<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico">
+<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="30px" height="30px">
 </p>
 
 <hr>
