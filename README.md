@@ -1,6 +1,6 @@
 
 
-<p align="block" style="font-syze: 18pt"> 
+<p align="block" style="font-sie: 18pt"> 
           <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="20px" height="20px">BlogPessoal
 </p>
 
