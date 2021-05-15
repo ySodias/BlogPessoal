@@ -1,7 +1,7 @@
 
 
 <p align="center"> 
-          <img src="https://i.imgur.com/pVX5RAS.png">
+          <img src="https://i.imgur.com/pVX5RAS.png" width="400px" height="300px">
 </p>
 
 <hr>
