@@ -37,14 +37,12 @@ Frameworks:
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
+     <td><img src="https://i.imgur.com/wH51rV4.png"  width="40px" height="40px"></td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
-    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
-    <td valign="top"><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
+    <td valign="top">Angular</td>
+    <td valign="top">Spring</td>
   </tr>
  </table>
 
