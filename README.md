@@ -1,8 +1,7 @@
 
 
 <p align="block"> 
-
-<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="30px" height="30px">BlogPessoal
+          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="20px" height="20px"><h2>BlogPessoal</h2>
 </p>
 
 <hr>
