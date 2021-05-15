@@ -48,7 +48,15 @@ Frameworks:
 
 Banco de Dados:
     
-<img src="https://i.imgur.com/ty5ww9q.png"  width="40px" height="40px">
+ <table>
+  <tr>
+    <img src="https://i.imgur.com/ty5ww9q.png"  width="40px" height="40px">
+  </tr>
+  <tr>
+    <td valign="top">MySQL</td>
+  </tr>
+ </table>
+
 
 
 <br>
