@@ -1,5 +1,5 @@
-<p align="center">
-          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" alt="Logo BlogPessoal" width="30px" height="30px" ><h1>          BlogPessoal</h1>
+<p>
+          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" alt="Logo BlogPessoal" width="30px" height="30px"><h1>         BlogPessoal</h1>
 </p>
 
 
