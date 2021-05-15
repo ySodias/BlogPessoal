@@ -20,20 +20,19 @@ Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil. O projeto é v
 <br>
 
 Linguagens de Programação:
-* Java
-* Typescript
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/U8uY4Nk.png"  width="40px" height="40px"></td>
+     <td><img src="https://i.imgur.com/eudt8jI.png"  width="40px" height="40px"></td>
+  </tr>
+  <tr>
+    <td valign="top">Java</td>
+    <td valign="top">Typescript</td>
+  </tr>
+ </table>
 
 
 Frameworks:
-<p style="display:flex;">
-          <img src="https://i.imgur.com/LttMY4e.png" alt="logo Angular" width="40px" height="40px">
-          <h3>Angular</h3>
-</p>
-
-
-![Angular](https://i.imgur.com/LttMY4e.png)
-
-# Title
 
 <table>
   <tr>
