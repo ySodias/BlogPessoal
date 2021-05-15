@@ -1,5 +1,9 @@
 
-[BlogPessoal](https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico)
+
+<p align="block"> 
+<h1>BlogPessoal</h1>
+<img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico">
+</p>
 
 <hr>
 <br>
