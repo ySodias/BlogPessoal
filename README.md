@@ -1,6 +1,6 @@
 # BlogPessoal
 <hr>
-
+<br>
 ## Decrição:
 Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 
@@ -10,7 +10,7 @@ Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 <hr>
 
 ### Principais Tecnologias Utilizadas:
-
+<br>
 Linguagens de Programação:
 * Java
 * Typescript
@@ -22,7 +22,8 @@ Frameworks:
 
 
 Banco de Dados:
-MySQL
+* MySQL
+<br>
 <hr>
 
 ## Necessário para começar a usar:
@@ -34,8 +35,7 @@ MySQL
 3. Depois é necessário alterar a pasta ir a pasta resources e no arquivo aplication.properties e alterar os dados para o login em seu banco de dados
 4. Por fim abrir a pasta do Front-end no terminal e usar o comando para subir o servido no Angular:
           ``` ng serve ```
-
-
+<br>
 ## Arquitetura de pastas no Back-end:
 ```shell
 
