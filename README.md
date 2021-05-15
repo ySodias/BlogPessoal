@@ -30,7 +30,11 @@ MySQL
 
 
 ## Arquitetura de pastas no Back-end:
+```shell
 
+  $tree
+  
+  .
 ├───java
 │   └───com
 │       └───example
@@ -44,7 +48,7 @@ MySQL
 └───resources
     ├───static
     └───templates
-    
+```
 ## Arquitetura de pastas no Front-end:
 
 ├───app
