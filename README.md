@@ -1,8 +1,9 @@
 # BlogPessoal
 <hr>
 <br>
+
 ## Decrição:
-Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
+Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil. O projeto é voltado para que pessoas possam postar e compartilhar suas ideias e gostos. :thought_balloon: 
 
 * Link da Documentação: https://ysodias.github.io/dic-blogPessoal.v2/ 
 * Link do projeto no Heroku: https://blogpessoal-yuri.herokuapp.com/#/entrar
@@ -28,7 +29,7 @@ Banco de Dados:
 <br>
 <hr>
 
-## Necessário para começar a usar:
+## ⚠️ Necessário para começar a usar:
 
 1. Clonar o repositório:
           ``` git clone ```
