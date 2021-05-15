@@ -1,7 +1,7 @@
 
 
-<p align="block"> 
-          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="20px" height="20px"> BlogPessoal
+<p align="center"> 
+          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" width="20px" height="20px">
 </p>
 
 <hr>
