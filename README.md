@@ -48,7 +48,7 @@ Frameworks:
 
 Banco de Dados:
     
-<img src="https://imgur.com/ty5ww9q"  width="40px" height="40px">
+<img src="https://i.imgur.com/ty5ww9q.png"  width="40px" height="40px">
 
 
 <br>
