@@ -1,8 +1,5 @@
-<p float="left">
-          <img src="https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico" alt="Logo BlogPessoal" width="30px" height="30px"><h1>         BlogPessoal</h1>
-</p>
 
-![BlogPessoal](https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico)
+[BlogPessoal](https://raw.githubusercontent.com/ySodias/BlogPessoal/main/front-end/src/favicon.ico)
 
 <hr>
 <br>
