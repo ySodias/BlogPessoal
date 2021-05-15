@@ -4,21 +4,21 @@
 ## Decrição:
 Projeto de Blog Pessoal feito durante Bootcamp Generation Brasil
 
-Link da Documentação: https://ysodias.github.io/dic-blogPessoal.v2/
-Link do projeto no Heroku: https://blogpessoal-yuri.herokuapp.com/#/entrar
+* Link da Documentação: https://ysodias.github.io/dic-blogPessoal.v2/ 
+* Link do projeto no Heroku: https://blogpessoal-yuri.herokuapp.com/#/entrar
 
 <hr>
 
 ### Principais Tecnologias Utilizadas:
 
 Linguagens de Programação:
-Java
-Typescript
+* Java
+* Typescript
 
 
 Frameworks:
-Spring
-Angular
+* Spring
+* Angular
 
 
 Banco de Dados:
