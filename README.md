@@ -36,12 +36,12 @@ Frameworks:
 
 <table>
   <tr>
+    <td><img src="https://i.imgur.com/ZwznGgU.png"  width="40px" height="40px"></td>        
     <td><img src="https://i.imgur.com/LttMY4e.png"  width="40px" height="40px"></td>
-     <td><img src="https://i.imgur.com/ZwznGgU.png"  width="40px" height="40px"></td>
   </tr>
   <tr>
-    <td valign="top">Angular</td>
     <td valign="top">Spring</td>
+    <td valign="top">Angular</td>
   </tr>
  </table>
 
