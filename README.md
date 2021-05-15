@@ -47,7 +47,10 @@ Frameworks:
 
 
 Banco de Dados:
-* MySQL
+    
+<img src="https://imgur.com/ty5ww9q"  width="40px" height="40px">
+
+
 <br>
 <hr>
 
