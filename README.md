@@ -33,8 +33,8 @@ MySQL
 ```shell
 
   $tree
+  main
   
-  .
 ├───java
 │   └───com
 │       └───example
@@ -50,7 +50,11 @@ MySQL
     └───templates
 ```
 ## Arquitetura de pastas no Front-end:
+```shell
 
+  $tree
+  src
+  
 ├───app
 │   ├───alerta
 │   ├───cadastrar
@@ -71,4 +75,4 @@ MySQL
 │   └───tema
 ├───assets
 └───environments
-
+```
